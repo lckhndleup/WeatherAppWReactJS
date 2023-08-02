@@ -41,6 +41,7 @@ const CityProvider = ({ children }) => {
         setLoading(false);
         setPage(page + 1);
       });
+      
     }
   };
 
